@@ -8,7 +8,7 @@ The Language only contains Chinese.
 
 ## Designer
 
-This is the first handmade PC-Game.
+This is my first handmade PC-Game.
 
 I made this game when i was in NTU, with other classmates, in a class call 《校園資產詮釋計畫》(National Taiwan University Heritage Interpretations).  
 
