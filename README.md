@@ -1,4 +1,4 @@
-# RPG Maker XP Game: 《學子之心》(The Heart of the Patriotic Students)
+#《學子之心》(The Heart of the Patriotic Students)
 
 《學子之心》(The Heart of the Patriotic Students) is a game written by RPG Maker XP.
 
