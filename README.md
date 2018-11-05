@@ -24,6 +24,6 @@ You can download the game and play it directly. [Download Link](/《學子之心
 
 The debug version is in 學子之心(Debug版本).  
 
-You can download and open it by using RPG Maker XP 1.03.  
+You can download and open it by using RPG Maker XP 1.03 to see the design.  
 
-I used lots of RGSS(Ruby-like language) script in this game.  
+I used RGSS(Ruby-like language) script in this game.  
