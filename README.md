@@ -6,11 +6,18 @@ It's a RPG PC-Game. The story is about the four principals of National Taiwan Un
 
 The Language only contains Chinese.
 
+![](Images/Snapshot1.png)
+
+![](Images/Snapshot2.png)
+
+![](Images/Snapshot3.png)
+
+
 ## Designer
 
 This is my first handmade PC-Game.
 
-I made this game when i was in NTU, with other classmates, in a class call 《校園資產詮釋計畫》(National Taiwan University Heritage Interpretations).  
+I made this game when i was in NTU, with other classmates, in a class called 《校園資產詮釋計畫》(National Taiwan University Heritage Interpretations).  
 
 They are 莊岳祥、上官良治、堀江賢一、張瀞婷、吳致緯、李修甫、廖炳閎、郭志豪、張斐昕、陳映蓉、謝佳倫.  
 
@@ -18,11 +25,11 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 
 ## Download
 
-You can download the game and play it directly. [Download Link](/《學子之心》1.01安裝檔.exe)
+You can download the game and play it directly. [Download Link](/Builds/《學子之心》1.01安裝檔.exe)
 
-## Debug Version
+## Source (Debug Version)
 
-The debug version is in 學子之心(Debug版本).  
+The debug version is in /RPGMakerGameDesign/Source.
 
 You can download and open it by using RPG Maker XP 1.03 to see the design.  
 
