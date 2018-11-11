@@ -1,13 +1,14 @@
 # 《學子之心》(The Heart of the Patriotic Students)
 
-![](Images/Snapshot1.png)
-
 《學子之心》(The Heart of the Patriotic Students) is a game written by RPG Maker XP.
 
 It's a RPG PC-Game. The story is about the four principals of National Taiwan University(NTU), and some historical events about NTU students.
 
-The Language only contains Chinese.
+Game language contains Chinese only.
 
+![](Images/Snapshot1.png)
+
+<br><br/>
 
 ## Designers
 
@@ -19,13 +20,13 @@ They are 莊岳祥、上官良治、堀江賢一、張瀞婷、吳致緯、李�
 
 I had done most of the RPG Maker's design. Other classmates made most of the photos and a theme song.  
 
-
 ![](Images/Designers1.png)
 
 ![](Images/Designers2.png)
 
 ![](Images/Designers3.png)
 
+<br><br/>
 
 ## GamePlay Snapshots
 
@@ -33,10 +34,13 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 
 ![](Images/Snapshot3.png)
 
+<br><br/>
 
 ## Download
 
-You can download the game and play it directly. [Download Link](/Builds/《學子之心》1.01安裝檔.exe)
+You can download the game and play it directly. [Download Link](/Builds/《學子之心》1.01安裝檔.exe) 
+
+<br><br/>
 
 ## Source (Debug Version)
 
