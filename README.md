@@ -40,7 +40,7 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 
 * Download Link: [Installer](/Builds/《學子之心》1.01Installer.exe) or [Portable](/Builds/《學子之心》1.01Portable.exe) 
 
-* You may need to turn off your antivirus software in order to execute.
+* You may need to disable your anti-virus in order to run successfully.
 
 <br><br/>
 
