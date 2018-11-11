@@ -38,7 +38,7 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 
 * Make sure that "RPG Maker XP RTP" is installed in your computer. You can also download from [here](/Builds/xp_rtp104e.exe).
 
-* Download Link: [Installer](/Builds/《學子之心》1.01Installer.exe) or [Portable](/Builds/《學子之心》1.01Portable.exe) 
+* Download Link: [Installer](/Builds/《學子之心》1.01Installer.exe) or [Portable](/Builds/《學子之心》1.01Portable.7z) 
 
 * You may need to disable your anti-virus in order to run successfully.
 
