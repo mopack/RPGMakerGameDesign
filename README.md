@@ -25,7 +25,7 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 ![](Images/Designers3.png)
 
 
-## GamePlay
+## GamePlay Snapshots
 
 ![](Images/Snapshot1.png)
 
