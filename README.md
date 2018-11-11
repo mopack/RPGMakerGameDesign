@@ -38,6 +38,9 @@ I had done most of the RPG Maker's design. Other classmates made most of the pho
 
 ## Download
 
+* Make sure you have RMXP RTP in you computer. If you don't, you can download [here](/Builds/xp_rtp104e.exe) 
+
+* 
 You can download the game and play it directly. [Download Link](/Builds/《學子之心》1.01安裝檔.exe) 
 
 <br><br/>
